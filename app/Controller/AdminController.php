@@ -1,4 +1,11 @@
 <?php
+ /*
+    Comment naku Rmn ni 
+    
+    ******************* CODES CODES CODES CODES ************************************
+ 
+ 
+ */
 
 	class AdminController extends AppController{
 		
